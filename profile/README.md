@@ -1,6 +1,6 @@
 # netfant | Custom Software Development
 
-netfant is the professional brand of Alexander Schmid, an experienced full-stack engineer based in the Pratteln area.
+netfant is the professional brand of Alexander Schmid, an experienced full-stack engineer based in the Basel area.
 
 The brand represents a specialization in building modern, scalable, and high-quality web applications, from custom CMS plugins to full-stack AI-driven platforms.
 
